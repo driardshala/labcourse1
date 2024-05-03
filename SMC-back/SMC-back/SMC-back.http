@@ -1,0 +1,6 @@
+@SMC_back_HostAddress = http://localhost:5200
+
+GET {{SMC_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -8921,11 +8921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\labc1\\SMC-back\\SMC-back\\SMC-back.csproj",
+      "projectUniqueName": "D:\\Desktop\\labc1\\labcourse1\\SMC-back\\SMC-back\\SMC-back.csproj",
       "projectName": "SMC-back",
-      "projectPath": "D:\\Desktop\\labc1\\SMC-back\\SMC-back\\SMC-back.csproj",
+      "projectPath": "D:\\Desktop\\labc1\\labcourse1\\SMC-back\\SMC-back\\SMC-back.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\labc1\\SMC-back\\SMC-back\\obj\\",
+      "outputPath": "D:\\Desktop\\labc1\\labcourse1\\SMC-back\\SMC-back\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

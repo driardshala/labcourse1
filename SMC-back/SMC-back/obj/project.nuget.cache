@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OuWDgNwMRO3YS+IgJEo+eeJUejlGWfVION3mHXZkdpq39SY4jxuBm0qrLef61ak8Pu5rVJ1tX2xOhKuvyeCEpA==",
+  "dgSpecHash": "rd19MvS/7/sicgYu/VvqpAlUKjKdbnbOWHpztjsUOXD23bCrW3MkqIzg1NjLJgNDp1cz0m+2DRH2PBm5a+8lHg==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\labc1\\SMC-back\\SMC-back\\SMC-back.csproj",
+  "projectFilePath": "D:\\Desktop\\labc1\\labcourse1\\SMC-back\\SMC-back\\SMC-back.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

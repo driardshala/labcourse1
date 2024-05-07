@@ -529,3 +529,9 @@ D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\SMC-back.csproj.U
 D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\SMC-back.dll
 D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\refint\SMC-back.dll
 D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\SMC-back.pdb
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\bin\Debug\net8.0\SMC-back.deps.json
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\bin\Debug\net8.0\SMC-back.runtimeconfig.json
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\bin\Debug\net8.0\SMC-back.dll
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\bin\Debug\net8.0\SMC-back.pdb
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\SMC-back.genruntimeconfig.cache
+D:\Desktop\labc1\labcourse1\SMC-back\SMC-back\obj\Debug\net8.0\ref\SMC-back.dll

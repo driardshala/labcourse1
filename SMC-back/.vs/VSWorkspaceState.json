@@ -3,7 +3,8 @@
     "",
     "\\SMC-back",
     "\\SMC-back\\Controllers",
-    "\\SMC-back\\Entities"
+    "\\SMC-back\\Entities",
+    "\\SMC-back\\Migrations"
   ],
   "SelectedNode": "\\SMC-back.sln",
   "PreviewInSolutionExplorer": false
